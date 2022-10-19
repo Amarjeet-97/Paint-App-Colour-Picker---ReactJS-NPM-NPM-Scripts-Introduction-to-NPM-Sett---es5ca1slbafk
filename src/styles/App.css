@@ -51,3 +51,8 @@ button {
     background: rgb(44, 209, 88);
     color: black;
 }
+.row{
+    display: flex;
+    margin: auto;
+    width: fit-content;
+}
